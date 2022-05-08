@@ -20,7 +20,11 @@
 ![Nomenclature](https://static.platzi.com/media/user_upload/img-2e2fc1ba-ad77-4045-b7a5-f74a65e3f55e.jpg)
 
 ## Cardinalidad
-- ![Cardinalidad](https://lh6.googleusercontent.com/proxy/BWwfVeHWLGIMExCLh91GUCnq5-0TX2ay5RelZwRBj5Ku4u90DmqKv_V3WmZ_0IOR-moNHKuNPb-6qccSaOzTJgENwMl5SdjmJO0AxRfx1v1TmtJPXWK95dj3v2C5Tst9b73kZ6JGHiEAhnUhNQiY=w1200-h630-p-k-no-nu)
+![Cardinalidad](https://lh6.googleusercontent.com/proxy/BWwfVeHWLGIMExCLh91GUCnq5-0TX2ay5RelZwRBj5Ku4u90DmqKv_V3WmZ_0IOR-moNHKuNPb-6qccSaOzTJgENwMl5SdjmJO0AxRfx1v1TmtJPXWK95dj3v2C5Tst9b73kZ6JGHiEAhnUhNQiY=w1200-h630-p-k-no-nu)
 
 ## Diagrama ER
 - [Página para hacer diagramas](https://app.diagrams.net)
+## Diagrama Físico 
+- Tipos de datos y Constraints (Restricciones)
+![Tipos de Datos](https://static.platzi.com/media/user_upload/DiagramaF%C3%ADsico%3Atipo%20de%20datos%20y%20constraints-e18d3f34-6bb7-424b-8256-8212049045ce.jpg)
+
